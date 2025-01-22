@@ -1,0 +1,5 @@
+# 每8小时执行一次check_status.sh脚本
+0 */8 * * * /bin/bash /home/breynald/StatusCheck/check_status.sh
+
+# 每8小时执行一次upload_to_github.sh脚本
+0 */8 * * * /bin/bash /home/breynald/StatusCheck/upload_to_github.sh
