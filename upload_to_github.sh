@@ -11,7 +11,7 @@ cd $repo_path
 git add status_log.json
 
 # Commit the changes with a message
-git commit -m "Update status_log.json"
+git commit -m "Automated commit: $(date +'%Y-%m-%d %H:%M:%S')"
 
 # Push the changes to the remote repository
 git push origin main
