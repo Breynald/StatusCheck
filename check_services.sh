@@ -2,7 +2,7 @@
 
 
 # Define the services to check
-services=("zeronsd-8286ac0e47c9a278" "cloudreve" "pzserver" "mcserver" "zerotier-one" "ts" "valheim")
+services=("cloudreve" "pzserver" "mcserver" "zerotier-one" "ts" "valheim")
 
 # Define the JSON file path
 json_file="/home/breynald/StatusCheck/status_log.json"
