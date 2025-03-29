@@ -363,6 +363,10 @@
     {
       "timestamp": "2025-03-29 08:00:01",
       "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 10:31:00",
+      "status": "active"
     }
   ],
   "pzserver": [
@@ -728,6 +732,10 @@
     },
     {
       "timestamp": "2025-03-29 08:00:01",
+      "status": "inactive"
+    },
+    {
+      "timestamp": "2025-03-29 10:31:00",
       "status": "inactive"
     }
   ],
@@ -1095,6 +1103,10 @@
     {
       "timestamp": "2025-03-29 08:00:01",
       "status": "inactive"
+    },
+    {
+      "timestamp": "2025-03-29 10:31:00",
+      "status": "inactive"
     }
   ],
   "zerotier-one": [
@@ -1460,6 +1472,10 @@
     },
     {
       "timestamp": "2025-03-29 08:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 10:31:00",
       "status": "active"
     }
   ],
@@ -1827,6 +1843,10 @@
     {
       "timestamp": "2025-03-29 08:00:01",
       "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 10:31:00",
+      "status": "active"
     }
   ],
   "valheim": [
@@ -2192,6 +2212,10 @@
     },
     {
       "timestamp": "2025-03-29 08:00:01",
+      "status": "inactive"
+    },
+    {
+      "timestamp": "2025-03-29 10:31:00",
       "status": "inactive"
     }
   ]
