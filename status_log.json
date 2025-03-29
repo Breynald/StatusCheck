@@ -1,10 +1,6 @@
 {
   "cloudreve": [
     {
-      "timestamp": "2025-02-27 00:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-02-27 08:00:01",
       "status": "active"
     },
@@ -362,15 +358,15 @@
     },
     {
       "timestamp": "2025-03-29 00:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 08:00:01",
       "status": "active"
     }
   ],
   "pzserver": [
     {
-      "timestamp": "2025-02-27 00:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-02-27 08:00:01",
       "status": "active"
     },
@@ -729,14 +725,14 @@
     {
       "timestamp": "2025-03-29 00:00:01",
       "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 08:00:01",
+      "status": "inactive"
     }
   ],
   "mcserver": [
     {
-      "timestamp": "2025-02-27 00:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-02-27 08:00:01",
       "status": "active"
     },
@@ -1095,14 +1091,14 @@
     {
       "timestamp": "2025-03-29 00:00:01",
       "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 08:00:01",
+      "status": "inactive"
     }
   ],
   "zerotier-one": [
     {
-      "timestamp": "2025-02-27 00:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-02-27 08:00:01",
       "status": "active"
     },
@@ -1460,15 +1456,15 @@
     },
     {
       "timestamp": "2025-03-29 00:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 08:00:01",
       "status": "active"
     }
   ],
   "ts": [
     {
-      "timestamp": "2025-02-27 00:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-02-27 08:00:01",
       "status": "active"
     },
@@ -1826,15 +1822,15 @@
     },
     {
       "timestamp": "2025-03-29 00:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 08:00:01",
       "status": "active"
     }
   ],
   "valheim": [
     {
-      "timestamp": "2025-02-27 00:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-02-27 08:00:01",
       "status": "active"
     },
@@ -2193,6 +2189,10 @@
     {
       "timestamp": "2025-03-29 00:00:01",
       "status": "active"
+    },
+    {
+      "timestamp": "2025-03-29 08:00:01",
+      "status": "inactive"
     }
   ]
 }
