@@ -1,14 +1,6 @@
 {
   "cloudreve": [
     {
-      "timestamp": "2025-06-29 00:00:02",
-      "status": "active"
-    },
-    {
-      "timestamp": "2025-06-29 08:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-06-29 16:00:01",
       "status": "active"
     },
@@ -366,19 +358,15 @@
     },
     {
       "timestamp": "2025-07-29 08:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-07-29 16:00:01",
       "status": "active"
     }
   ],
   "pzserver": [
     {
-      "timestamp": "2025-06-29 00:00:02",
-      "status": "inactive"
-    },
-    {
-      "timestamp": "2025-06-29 08:00:01",
-      "status": "inactive"
-    },
-    {
       "timestamp": "2025-06-29 16:00:01",
       "status": "inactive"
     },
@@ -736,19 +724,15 @@
     },
     {
       "timestamp": "2025-07-29 08:00:01",
+      "status": "inactive"
+    },
+    {
+      "timestamp": "2025-07-29 16:00:01",
       "status": "inactive"
     }
   ],
   "mcserver": [
     {
-      "timestamp": "2025-06-29 00:00:02",
-      "status": "active"
-    },
-    {
-      "timestamp": "2025-06-29 08:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-06-29 16:00:01",
       "status": "active"
     },
@@ -1106,19 +1090,15 @@
     },
     {
       "timestamp": "2025-07-29 08:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-07-29 16:00:01",
       "status": "active"
     }
   ],
   "zerotier-one": [
     {
-      "timestamp": "2025-06-29 00:00:02",
-      "status": "active"
-    },
-    {
-      "timestamp": "2025-06-29 08:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-06-29 16:00:01",
       "status": "active"
     },
@@ -1476,19 +1456,15 @@
     },
     {
       "timestamp": "2025-07-29 08:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-07-29 16:00:01",
       "status": "active"
     }
   ],
   "ts": [
     {
-      "timestamp": "2025-06-29 00:00:02",
-      "status": "active"
-    },
-    {
-      "timestamp": "2025-06-29 08:00:01",
-      "status": "active"
-    },
-    {
       "timestamp": "2025-06-29 16:00:01",
       "status": "active"
     },
@@ -1846,19 +1822,15 @@
     },
     {
       "timestamp": "2025-07-29 08:00:01",
+      "status": "active"
+    },
+    {
+      "timestamp": "2025-07-29 16:00:01",
       "status": "active"
     }
   ],
   "valheim": [
     {
-      "timestamp": "2025-06-29 00:00:02",
-      "status": "inactive"
-    },
-    {
-      "timestamp": "2025-06-29 08:00:01",
-      "status": "inactive"
-    },
-    {
       "timestamp": "2025-06-29 16:00:01",
       "status": "inactive"
     },
@@ -2216,6 +2188,10 @@
     },
     {
       "timestamp": "2025-07-29 08:00:01",
+      "status": "inactive"
+    },
+    {
+      "timestamp": "2025-07-29 16:00:01",
       "status": "inactive"
     }
   ]
